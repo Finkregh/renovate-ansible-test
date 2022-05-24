@@ -1,0 +1,8 @@
+---
+- src: git+https://fink.ftp.sh/gitea/finkregh/tmp-ansible-role-testbar.git
+  version: v2022052401
+  name: testbar
+
+- src: git+https://fink.ftp.sh/gitea/finkregh/tmp-ansible-role-testfoo.git
+  version: v2022052401
+  name: testfoo

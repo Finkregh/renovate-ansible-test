@@ -1,0 +1,13 @@
+---
+- hosts: all
+  tasks:
+      - name: Gather facts.
+        setup:
+
+      - name: bar
+        include_role:
+          name: testbar
+
+      - name: foo
+        include_role:
+          name: testfoo
