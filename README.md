@@ -10,3 +10,7 @@ Both versions come from the git tags, have initially been correctly detected. In
 For both deps there should have been PRs for updates to the newer tags.
 
 I do not see any logs/details.
+
+# actual behaviour
+
+No PRs have been created.
